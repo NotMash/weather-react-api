@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 <img width="499" alt="Screenshot 2023-11-13 at 22 57 04" src="https://github.com/NotMash/weather-react-api/assets/75740933/9d88de4a-d0c0-4746-b488-74d12fe193d6">
 
@@ -10,11 +10,11 @@
 
 
 
-#Description
+# Description
 
 This is a simple weather app built with React that allows users to check the current weather and a 5-day weather forecast for a city. It uses the OpenWeatherMap API to fetch weather data based on user input or geolocation.
 
-#Features
+# Features
 
 Get current weather information for a city by searching for it.
 Display a 5-day weather forecast with data available every 3 hours.
