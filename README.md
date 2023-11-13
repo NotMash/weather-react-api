@@ -1,12 +1,20 @@
-Weather App
+#Weather App
 
-Weather App Screenshot
+<img width="499" alt="Screenshot 2023-11-13 at 22 57 04" src="https://github.com/NotMash/weather-react-api/assets/75740933/9d88de4a-d0c0-4746-b488-74d12fe193d6">
 
-Description
+
+<img width="466" alt="Screenshot 2023-11-13 at 22 57 36" src="https://github.com/NotMash/weather-react-api/assets/75740933/57feba02-567c-47af-9287-d4e8a0ded640">
+
+
+<img width="470" alt="Screenshot 2023-11-13 at 22 57 55" src="https://github.com/NotMash/weather-react-api/assets/75740933/b8b212a4-a1cf-4d5f-844e-5f5a9de9709b">
+
+
+
+#Description
 
 This is a simple weather app built with React that allows users to check the current weather and a 5-day weather forecast for a city. It uses the OpenWeatherMap API to fetch weather data based on user input or geolocation.
 
-Features
+#Features
 
 Get current weather information for a city by searching for it.
 Display a 5-day weather forecast with data available every 3 hours.
@@ -57,14 +65,9 @@ OpenWeatherMap API - Provides weather data for cities around the world.
 React Icons - Library for adding weather icons to the UI.
 Credits
 
-This project was created by [Your Name] as a personal project to learn and showcase React development skills.
+This project was created by Mohammed Ibrahim Miah as a personal project to learn and showcase React development skills.
 
 License
 
 This project is open-source and available under the MIT License (LICENSE.md).
 
-Acknowledgments
-
-OpenWeatherMap for providing the weather data API.
-React for the excellent JavaScript library.
-React Icons for the weather icons.
